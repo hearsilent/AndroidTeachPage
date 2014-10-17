@@ -13,7 +13,7 @@ Android Example
 - [Android官方文件](http://developer.android.com/index.html)
 - [Android非官方教學 (較舊)](http://in.gururu.tw/2011/01/android.html?m=1)
 - [Android非官方教學 (較新，含跨平台)](http://terry55wu.blogspot.tw/p/android.html?m=1)
-- [Android Open Source Project (會搭配GitHub入門教學)](https://github.com/Trinea/android-open-project)
+- [Android Open Source Project (會搭配GitHub入門教學)](https://github.com/hearsilent/android-open-project)
      
 IOS Example          
 =============================  
