@@ -14,6 +14,13 @@ Android Example
 - [Android非官方教學 (較舊)](http://in.gururu.tw/2011/01/android.html?m=1)
 - [Android非官方教學 (較新，含跨平台)](http://terry55wu.blogspot.tw/p/android.html?m=1)
 - [Android Open Source Project (會搭配GitHub入門教學)](https://github.com/hearsilent/android-open-project)
+
+Android L
+=============================  
+- [Android L Developer Preview](http://developer.android.com/preview/index.html#Start)
+- [Android 5.0 APIs](http://developer.android.com/about/versions/android-5.0.html)
+- [Android 5.0 API Samples](http://developer.android.com/samples/new/index.html)
+
      
 IOS Example          
 =============================  
