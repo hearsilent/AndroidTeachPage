@@ -14,6 +14,10 @@ Android Example
 - [Android非官方教學 (較舊)](http://in.gururu.tw/2011/01/android.html?m=1)
 - [Android非官方教學 (較新，含跨平台)](http://terry55wu.blogspot.tw/p/android.html?m=1)
 - [Android Open Source Project (會搭配GitHub入門教學)](https://github.com/hearsilent/android-open-project)
+- [tato469/Android](https://github.com/tato469/Android)
+- [RedBearLab/Android (BLE SDK for Android)](https://github.com/RedBearLab/Android)
+- [Bluetooth spp tools](https://github.com/hearsilent/BluetoothSppPro)
+- [Remote Control Server](https://github.com/Steppschuh/RemoteControlServer)
 
 Android L
 =============================  
@@ -28,3 +32,10 @@ IOS Example
 - [iOS Tutorial](http://www.raywenderlich.com/1797/ios-tutorial-how-to-create-a-simple-iphone-app-part-1)
 - [如何編寫iOS app？由最基礎說起](http://eddyl.com/blog/2010/08/make_app_01/)
 - [The Swift Programming Language (簡體)](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/)
+- [Objective-C Style Guide](https://github.com/github/objective-c-style-guide)
+- [Swift Style Guide](https://github.com/github/swift-style-guide)
+
+GitHub
+============================= 
+- [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
+- [GitHub Training Kit](https://training.github.com/kit/)
