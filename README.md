@@ -34,6 +34,7 @@ IOS Example
 - [The Swift Programming Language (簡體)](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/)
 - [Objective-C Style Guide](https://github.com/github/objective-c-style-guide)
 - [Swift Style Guide](https://github.com/github/swift-style-guide)
+- [iOS備忘](http://github.ibireme.com/github/list/ios/#)
 
 GitHub
 ============================= 
