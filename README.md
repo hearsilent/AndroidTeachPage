@@ -40,3 +40,5 @@ GitHub
 ============================= 
 - [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
 - [GitHub Training Kit](https://training.github.com/kit/)
+- [Pro Git（中文版）](http://git.oschina.net/progit/)
+- [Pro Git V2](http://git-scm.com/book/en/v2)
