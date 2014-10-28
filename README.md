@@ -18,6 +18,7 @@ Android Example
 - [RedBearLab/Android (BLE SDK for Android)](https://github.com/RedBearLab/Android)
 - [Bluetooth spp tools](https://github.com/hearsilent/BluetoothSppPro)
 - [Remote Control Server](https://github.com/Steppschuh/RemoteControlServer)
+- [非常好用的開源 Android 測試工具](http://www.oschina.net/news/56142/open-source-android-testing-tools?utm_source=tuicool)
 
 Android L
 =============================  
