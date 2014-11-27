@@ -13,13 +13,14 @@ Android Example
 - [Android官方文件](http://developer.android.com/index.html)
 - [Android非官方教學 (較舊)](http://in.gururu.tw/2011/01/android.html?m=1)
 - [Android非官方教學 (較新，含跨平台)](http://terry55wu.blogspot.tw/p/android.html?m=1)
-- [Android Open Source Project (會搭配GitHub入門教學)](https://github.com/hearsilent/android-open-project)
+- [Android Open Source Project (會搭配GitHub入門教學)](https://github.com/Trinea/android-open-project/tree/master/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88)
 - [tato469/Android](https://github.com/tato469/Android)
 - [RedBearLab/Android (BLE SDK for Android)](https://github.com/RedBearLab/Android)
 - [Bluetooth spp tools](https://github.com/hearsilent/BluetoothSppPro)
 - [Remote Control Server](https://github.com/Steppschuh/RemoteControlServer)
 - [非常好用的開源 Android 測試工具](http://www.oschina.net/news/56142/open-source-android-testing-tools?utm_source=tuicool)
 - [Android libs from GitHub](https://github.com/snowdream/awesome-android)
+- [Android Arsenal](https://android-arsenal.com/)
 
 Android L
 =============================  
