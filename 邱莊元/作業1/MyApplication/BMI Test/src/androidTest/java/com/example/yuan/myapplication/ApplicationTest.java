@@ -1,4 +1,4 @@
-package com.example.user1.miniyuan;
+package com.example.yuan.myapplication;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
