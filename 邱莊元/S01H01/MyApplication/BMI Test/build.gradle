@@ -5,7 +5,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "com.example.user1.miniyuan"
+        applicationId "com.example.yuan.myapplication"
         minSdkVersion 15
         targetSdkVersion 21
         versionCode 1
