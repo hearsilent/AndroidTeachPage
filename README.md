@@ -21,6 +21,7 @@ Android Example
 - [非常好用的開源 Android 測試工具](http://www.oschina.net/news/56142/open-source-android-testing-tools?utm_source=tuicool)
 - [Android libs from GitHub](https://github.com/snowdream/awesome-android)
 - [Android Arsenal](https://android-arsenal.com/)
+- [Google Material Design 正體中文版](http://wcc723.gitbooks.io/google_design_translate/content/)
 
 Android L
 =============================  
